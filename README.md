@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnajjarian&theme=solarized-light&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnajjarian?exclude_repo=Practice-It)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnajjarian?exclude_repo=https://github.com/mnajjarian/Practice-It)](https://github.com/anuraghazra/github-readme-stats)
 
