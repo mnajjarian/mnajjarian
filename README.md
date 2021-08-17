@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Mahdi and I am a web developer. Coding have been my passion since the days I started working with computers but I found myself into web development since 2017. I enjoy creating intuitive and functional applications.
+
+
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnajjarian&theme=solarized-light&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnajjarian&exclude_repo=Practice-It)](https://github.com/anuraghazra/github-readme-stats)
-
